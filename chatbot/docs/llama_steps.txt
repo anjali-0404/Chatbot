@@ -1,0 +1,8 @@
+
+STEPS TO RUN
+
+1. Install Ollama from https://ollama.com
+2. Pull model:
+   ollama pull llama3
+3. Run chatbot:
+   python backend/chatbot/chatbot.py
